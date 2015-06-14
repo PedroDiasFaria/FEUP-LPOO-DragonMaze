@@ -1,6 +1,6 @@
 # Dragon Maze
 
-This project was our first contact with the java language. It was developed on our second year of college and it was used as a way for us to understand the modularity construction of a program and as a way to get us aquainted with java. In terms of development we followed a test driven development approach, where we started to test the basic logic of the game first and then started writting the code. 
+This project was our first contact with the java language. It was developed on our second year of college and it was used as a way for us to understand the modular architecture of a program and as a way to get us aquainted with java. In terms of development we followed a test driven development approach, where we started to test the basic logic of the game first and then started writting the code. We used Junit as the test framework.
 
 The game has the following features :
 

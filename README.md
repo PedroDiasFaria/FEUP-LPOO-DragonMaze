@@ -12,6 +12,10 @@ The game has the following features :
 
 The first version of the game was made using only the command line interface, using letter inputs consumed with enters to move the character. Eventually, finished with the basic version of it, we upgraded the GUI with the swing widget toolkit for a better visual experience using some cool sprites. 
 
+
+In collaboration with: https://github.com/RuiBottoFigueira
+
+
 <img src="https://dl.dropboxusercontent.com/u/15655441/11414438_985068708210961_70887989_n.jpg" width="350" height="250" />
 <img src="https://dl.dropboxusercontent.com/u/15655441/11117631_985069684877530_1311019308_n.jpg" width="350" height="250" />
 <img src="https://dl.dropboxusercontent.com/u/15655441/11354698_985069774877521_1093141332_n.jpg" width="350" height="250" />
